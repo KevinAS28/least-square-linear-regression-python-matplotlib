@@ -1,3 +1,5 @@
+![Screenshot](screenshot.png)
+
 required:
 matplotlib
 numpy
