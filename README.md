@@ -1,5 +1,6 @@
-![Screenshot](screenshot.png)
-
+![Screenshot](posmul.png)
+![Screenshot](negmul.png)
+![Screenshot](simple.png)
 required:
 matplotlib
 numpy
